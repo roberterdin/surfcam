@@ -1,0 +1,6 @@
+allow-hotplug wwan0  
+iface wwan0 inet dhcp
+
+wwan_apn "everywhere"
+wwan_user ""
+wwan_pw ""

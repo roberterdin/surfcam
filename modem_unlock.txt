@@ -1,0 +1,10 @@
+https://www.modemunlock.com/write-send-unlock-code-to-huawei-modem.html
+
+IMEI 	861862007447031
+Model 	E303
+Unlock Code v1 	51014911
+Unlock Code v2 	11583614
+Unlock Code v3 	71382343
+New Hash 	4b994857d086f4ecb4b05a79156d1f0e
+Old Hash 	77f97484152b0e53708e453d03a0ccfe
+Flash Code 	46577315
